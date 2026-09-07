@@ -1,0 +1,15 @@
+{
+  "name": "basic-node-project",
+  "version": "2.0.0",
+  "description": "Task Manager Node.js application for Jenkins CI/CD",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "author": "Tanishx005",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
